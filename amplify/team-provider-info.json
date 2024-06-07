@@ -10,6 +10,14 @@
       "StackName": "amplify-nextamplifyhosting-dev-ce9ec",
       "StackId": "arn:aws:cloudformation:ap-south-1:339712998487:stack/amplify-nextamplifyhosting-dev-ce9ec/52f38a80-24f3-11ef-b4e3-06851b514006",
       "AmplifyAppId": "d2z69dlmne497x"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2z69dlmne497x",
+          "type": "manual"
+        }
+      }
     }
   }
 }
